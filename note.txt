@@ -1,0 +1,4 @@
+plugin 
+
+libary => toastr (or) flasher-toastr-laravel
+
